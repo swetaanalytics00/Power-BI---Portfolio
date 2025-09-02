@@ -34,23 +34,19 @@ It highlights key metrics, profitability drivers, customer behavior, and regiona
 
 2. **Category & Sub-Category Performance**
    - Treemap: Sales & Profit by Category
-   - Top 5 Sub-Categories highlighted
 
 3. **Regional Performance**
    - Map: Sales by State
    - Profitability by region (bubble size)
 
-4. **Customer Insights**
-   - Avg Sales per Customer by Segment
-
-5. **Shipping Analysis**
+4. **Shipping Analysis**
    - Avg Shipping Days by Ship Mode
 
-6. **Discount vs Profit**
+5. **Discount vs Profit**
    - Scatter plot: Impact of discount % on profitability
 
-7. **Top & Bottom Performers**
-   - **Top 10 Products by Sales** (conditional formatting)
+6. **Top & Bottom Performers**
+   - **Top 10 Products by Sales**
    - **Bottom 10 Products by Profit** (loss-making products)
 
 ---
@@ -65,9 +61,6 @@ It highlights key metrics, profitability drivers, customer behavior, and regiona
   - `Avg Shipping Days`
   - `RANKX` for Top/Bottom performers
 - **Forecasting** (built-in Power BI feature)
-- **Conditional Formatting** (Tables with ▲ ▼ icons)
 
 ---
-
-## 📂 Project Structure
 
