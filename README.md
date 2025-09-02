@@ -28,7 +28,7 @@ It highlights key metrics, profitability drivers, customer behavior, and regiona
 ---
 
 ## 🖼️ Dashboard Preview
-!Superstore Sales Dashboard](Screenshot 01.png)
+![Superstore Sales Dashboard](Screenshots/screenshot_01.png)
 
 ---
 
