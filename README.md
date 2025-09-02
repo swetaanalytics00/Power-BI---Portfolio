@@ -27,11 +27,6 @@ It highlights key metrics, profitability drivers, customer behavior, and regiona
 
 ---
 
-## 🖼️ Dashboard Preview
-![Superstore Sales Dashboard](Screenshots/screenshot_01.png)
-
----
-
 ## 📊 Dashboard Features
 1. **Sales & Profit Overview**
    - Line chart: Sales & Profit trend by Order Date
